@@ -1,16 +1,17 @@
 SpaceHACK Sustainability Project
 
-Project Overview
+**Project Overview**
 
 Developed as part of a sustainability-focused hackathon, this project investigated how data-driven approaches could improve freight transportation while reducing environmental impact.
 
-Skills & Methods
+**Skills & Methods**
 
-Satellite data analysis
+- Satellite data analysis
 
-Analytical modeling
+- Analytical modeling
 
-Sustainable supply chain strategy
+- Sustainable supply chain strategy
 
+**Project Presentation**
 [View the full project presentation](./SpaceHACK%20For%20Sustainability.pdf)
 
